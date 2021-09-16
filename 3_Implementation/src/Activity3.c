@@ -1,3 +1,13 @@
+/**
+ * @file activity3.c
+ * @author achyuth (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "activity3.h"
 #include "activity2.h"
 
