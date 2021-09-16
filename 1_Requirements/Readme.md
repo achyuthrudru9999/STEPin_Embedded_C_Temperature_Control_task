@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-This Project Vehicle Seat Heat Monitoring System is maintaining of heat in the vehicle seat. In the project sensor will sense the driver seated or not and if driver seated to need their required temperature. Contoller will set the heater to required temperature. The heater will be generates required heat and display the temperature in serial monitor.In project used ATmega328 microcontroller along with temperature sensor,Push button switch,LED etc.
+This Project Vehicle Seat Heat Monitoring System is maintaining of heat in the vehicle seat. In the project sensor will sense the driver seated or not and if driver seated to need their required temperature. Contoller will set the heater to required temperature. The heater will be generates required heat and display the temperature in serial monitor.In project used ATmega328 microcontroller along with temperature sensor,Push button switch,LED,USART etc.
 
 ## **Features**
 
