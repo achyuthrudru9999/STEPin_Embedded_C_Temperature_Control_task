@@ -50,7 +50,7 @@ int USARTRead()
     return UDR0;
 }
 
-void activity4_USARTWrite(uint16_t temp)
+void activity3_USARTWrite(uint16_t temp)
 { 
     int i=0;
         if(temp>=0 && temp<=200){
