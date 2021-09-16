@@ -1,4 +1,4 @@
-# STEPin_Embedded_C_Temperature_Control_task
+# STEPin_Embedded_C_Temperature_Monitor_task
 
 ## **Introduction**
 
