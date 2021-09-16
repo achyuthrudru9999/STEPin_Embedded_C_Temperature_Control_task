@@ -4,7 +4,7 @@
 
 This Project Vehicle Seat Heat Monitoring System is maintaining of heat in the vehicle seat. In the project sensor will sense the driver seated or not and if driver seated to need their required temperature. Both the driver & heater both are switches ON. The Contoller will set the heater to required temperature. The heater will be generates required heat and display the temperature in serial monitor.In project used ATmega328 microcontroller along with temperature sensor,Push button switch,LED,USART etc.
 
-
+<img width="797" alt="29_DEGREES" src="https://user-images.githubusercontent.com/89737485/133649012-21619157-c353-448e-b7ef-a9cc20c5e17b.png">
 
 [![Cppcheck](https://github.com/achyuthrudru9999/STEPin_Embedded_C_Temperature_Control_task/actions/workflows/Codequality.yml/badge.svg)](https://github.com/achyuthrudru9999/STEPin_Embedded_C_Temperature_Control_task/actions/workflows/Codequality.yml)
 
